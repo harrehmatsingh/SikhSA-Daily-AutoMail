@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+.env.*
+
+# Keys / certs
+*.pem
+*.key
+*.p12
+*.pfx
+
+# OS
+.DS_Store
